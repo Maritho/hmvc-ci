@@ -5,7 +5,7 @@
 	<style>
 		body {
 			margin: 0px;
-			background-color: #E4F1FE;
+			background-color: #ddd;
 		}
 		a {
 			text-decoration: none;
@@ -24,13 +24,10 @@
 <body>
 
 <div class="sections">
-	<div class="logo">
-		<img src="https://www.static-src.com/siva/asset/08_2016/Logo-Blibli-Friends.png">
-	</div>
 	<h1>Mohon maaf</h1>
 	<h2>Website sedang dalam perbaikan</h2>
 	<p>Bantuan</p>
-	<a href="mailto:community@blibli.com">Community Blibli Friends</a>
+	<a href="mailto:root@webmaster.com">root@webmaster.com</a>
 </div>
 
 </body>
